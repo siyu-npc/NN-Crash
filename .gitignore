@@ -126,4 +126,15 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
-.pyre/
+*.pyre/
+
+# image
+*.jpg
+
+# nn model
+*.pth
+
+# dataset
+*.txt
+*ubyte*
+*.gz
